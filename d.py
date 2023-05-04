@@ -1,5 +1,5 @@
 import os
-
+hi nego
 if not os.path.isfile("serias.txt"):
     print("created serias.txt")
     with open("serias.txt", "w"):
